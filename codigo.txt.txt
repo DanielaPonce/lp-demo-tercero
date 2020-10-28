@@ -3,3 +3,5 @@ Sistema Cibertec
 Daniela Ponce
 
 Sistema del colegio 122
+
+Este sistema perimite el registro de los alumnos
